@@ -1,0 +1,10 @@
+.credit {
+  display: "flex";
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.credit li {
+  margin-bottom: 10px 0 60px 20px;
+  color: black;
+}
